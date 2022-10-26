@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="tap2grow">Tap me and i will grow</string>
+    <string name="tap2juice">Tap to juice the lemon</string>
+    <string name="tap2drink">Tap to drink the amazing lemonade</string>
+    <string name="tap2getNew">Oh, you drank it all. Do you want one more cup?</string>
+    <string name="tapMore">Tap more</string>
+</resources>
