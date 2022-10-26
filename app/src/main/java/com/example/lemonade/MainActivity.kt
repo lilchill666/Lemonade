@@ -37,9 +37,10 @@ class MainActivity : AppCompatActivity() {
         val image : ImageView = findViewById(R.id.imageView)
         val text : TextView = findViewById(R.id.textView2)
         if (indexer == 3){
-            indexer = 0
+            indexer = -1
         }
         indexer++
+
         currentState = states[indexer]
         when (currentState){
             states[0] -> image.setImageResource(R.drawable.lemon_tree)
